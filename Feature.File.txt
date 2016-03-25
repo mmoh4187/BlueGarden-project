@@ -1,0 +1,13 @@
+Feature: As an executive, I want the system to identify multiple users. Therefore,the system can handle 
+many users at the same time.
+
+Scenario: Retrieve a customer's details.
+
+Given: User's ID and password.
+
+When: When we enter ID and password.
+
+Then: If the user's ID and password are correct, goto user profile.
+
+And: start using application features.
+
